@@ -28,6 +28,8 @@ LLM Categorizer es una demo de asistente inteligente que responde preguntas en l
    pip install -r requirements.txt
    ```
 
+   "Crear el archivo .env y poner la api key (GEMINI_API_KEY=Apikey)"
+
 3. Ejecutar:
 
    ```bash
